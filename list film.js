@@ -34,7 +34,11 @@ const daftarFilm = [
     new Film("Avatar 2", "Action, Adventure, Fantasy", "3 jam 12 menit","James Cameron", 13, 9.5),
     new Film("Black Panther: Wakanda Forever", "Action, Adventure, Drama", "2 jam 41 menit","Ryan Coogler", 13, 8.7),
     new Film("The Flash", "Action, Adventure, Sci-Fi", "2 jam 20 menit","Andy Muschietti", 13, 8.3),
-    new Film("Mission: Impossible – Dead Reckoning Part One", "Action, Adventure, Thriller", "2 jam 50 menit","Christopher McQuarrie", 13, 9.0)
+    new Film("Mission: Impossible – Dead Reckoning Part One", "Action, Adventure, Thriller", "2 jam 50 menit","Christopher McQuarrie", 13, 9.0),
+    new Film("Dune: Part Two", "Adventure, Drama, Sci-Fi", "2 jam 35 menit","Denis Villeneuve", 13, 8.8),
+    new Film("Wonka", "Adventure, Comedy, Family", "2 jam 10 menit","Paul King", 7, 8.0),
+    new Film("The Marvels", "Action, Adventure, Fantasy", "2 jam 15 menit","Nia DaCosta", 13, 8.4),
+
     ];
 
 //Masukkan ke HTML
