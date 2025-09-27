@@ -38,6 +38,8 @@ const daftarFilm = [
     new Film("Dune: Part Two", "Adventure, Drama, Sci-Fi", "2 jam 35 menit","Denis Villeneuve", 13, 8.8),
     new Film("Wonka", "Adventure, Comedy, Family", "2 jam 10 menit","Paul King", 7, 8.0),
     new Film("The Marvels", "Action, Adventure, Fantasy", "2 jam 15 menit","Nia DaCosta", 13, 8.4),
+    new Film("Aquaman and the Lost Kingdom", "Action, Adventure, Fantasy", "2 jam 30 menit","James Wan", 13, 8.6),
+    new Film("Shazam! Fury of the Gods", "Action, Adventure, Comedy", "2 jam 10 menit","David F. Sandberg", 13, 7.9),
 
     ];
 
